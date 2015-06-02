@@ -17,6 +17,7 @@ I will use this blog to talk about anything really, but for now I am just going 
 - I created a paper trading website site and sold it to umoo.com[now defunct] back in 2008. [I am not rich]
 - Started coding when I was 12.
 - Placed in top 5 for A-levels in Antigua for 2002.
+- Had a blog 2010 - 2012 with over 150,000 views.
 
 
 ### Contact me
