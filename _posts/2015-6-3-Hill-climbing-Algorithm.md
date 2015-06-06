@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Algorithm 1: Hill-climbing Algorithm!
+title: Algorithm 1 - Hill-climbing Algorithm!
 ---
 
 Hill-climbing algorithm is part of a category of algorithm called local search.  These are optimization algorithms, ie 
