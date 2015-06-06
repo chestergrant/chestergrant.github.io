@@ -52,12 +52,12 @@ So, what we need is a good enough solution, that is better than greed algorithm 
 Hill Climbing algorithm.  Works by:<br>
 0.  Initial our current solution to a random solution.<br>
 1.  Alter the current solution a little bit.<br>
-2.  Is altered solution better than our current solution, if yes our altered solution becomes our current solution else discard the altered solution.
+2.  Is altered solution better than our current solution, if yes our altered solution becomes our current solution else discard the altered solution.<br>
 3.  Repeat 1 and 2 until no change in solution after a number of tries of altered solutions.<br>
 4.  Print current solution
 
-You will notice that our solution to the problem keeps getting better.  For example, we travel a path randomly; if it is better than
-any other previous part travelled we make that our current solution.   We keep doing that until the current solution doesn't change for
+You will notice that our solution to the problem keeps getting better.  For example, we travel a altered path; if it is better than
+any other previous path travelled we make that our current solution.   We keep doing that until the current solution doesn't change for
 a significant number of iterations.
 
 Code:<br>
